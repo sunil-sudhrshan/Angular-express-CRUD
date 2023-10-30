@@ -1,4 +1,12 @@
-/* Style the form */
+
+
+.ad {
+  background-image: url('https://img.freepik.com/premium-photo/abstract-shape-background-geometric-colorful-backdrop-abstract-layout-design_839051-1013.jpg');
+  
+ width:auto;
+ height:auto;   
+}
+
 form {
   max-width: 500px;
   margin: 0 auto;
@@ -47,12 +55,10 @@ table.result {
 }
 
 td, th {
+  color: #ddd;
   padding: 12px;
   text-align: left;
   border: 1px solid #ddd;
 }
 
 /* Zebra striping */
-tr:nth-child(even) {
-  background-color: #f2f2f2;
-}

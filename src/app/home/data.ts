@@ -2,6 +2,6 @@ class Data{
     userid : string = '';
     password : string = '';
     hidden : string = '';
-    emailid : string = '';
+    emilid : string = '';
 }
 export default Data;
